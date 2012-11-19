@@ -1,3 +1,14 @@
+# CL for DAYONE
+
+This is fork fomr [sugyan/App-dayonetools](https://github.com/sugyan/App-dayonetools)
+i modified dropdox dir.
+
+change your dropbox dir at line 155 in lib/App/dayonetools.pm
+
+---
+
+# Original
+
 This is Perl module App::dayonetools.
 
 INSTALLATION

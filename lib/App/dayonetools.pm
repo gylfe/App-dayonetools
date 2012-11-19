@@ -152,8 +152,8 @@ sub save_journal {
         star => $self->{star} ? 'true' : 'false',
         uuid => $uuid,
     };
-    my $path = sprintf '%s/Dropbox/Journal.dayone/entries/%s.doentry', (
-        File::HomeDir->my_home,
+    my $path = sprintf "%s/dict/dropbox/private/Dropbox/Apps/Day\ One/Journal.dayone/entries/%s.doentry", (
+        File::HomeDir->my_home . "/dict/dropbox/public",
         $entry->{uuid},
     );
 
