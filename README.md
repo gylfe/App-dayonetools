@@ -1,9 +1,9 @@
 # CL for DAYONE
 
 This is fork of ***[sugyan/App-dayonetools](https://github.com/sugyan/App-dayonetools)***.  
-I personalized the dropdox dir location.
+I personalized the dropdox directories location.
 
-change your dropbox dir in `line 155` of `lib/App/dayonetools.pm`
+change your dropbox dir in `line 155` of `lib/App/dayonetools.pm`.
 
 ## Install
 
